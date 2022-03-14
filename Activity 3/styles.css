@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: #000000;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    margin: 2px auto;
+}
+
+h3{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+h2{
+    color:#ffffff;
+    font-size: 45px;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+button{
+    background-color:#272727;
+    color: rgb(255, 255, 255);
+    border: solid transparent;
+    padding: 10px 20px;
+    margin: 0 auto;
+    display: block;
+}
+
+button:hover{
+    background-color: transparent;
+    border: solid #ffffff;
+    cursor: pointer;
+}
